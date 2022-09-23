@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.keyur.digitalcasebook">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_logo"
+        android:label="Digital Case Book"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".UpdateDeathReport"></activity>
+        <activity android:name=".UpdateCrimeReport" />
+        <activity android:name=".ShowCrimeReport" />
+        <activity android:name=".SplashScreen2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DeathReportList" />
+        <activity android:name=".CrimeReportList" />
+        <activity android:name=".DeathReport4" />
+        <activity android:name=".DeathReport3" />
+        <activity android:name=".DeathReport2" />
+        <activity android:name=".CrimeReport3" />
+        <activity android:name=".NewCase" />
+        <activity android:name=".DeathReport" />
+        <activity android:name=".CrimeReport2" />
+        <activity android:name=".CrimeReport" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

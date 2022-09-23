@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="age">
+        <item>Children (0-14 years)</item>
+        <item>Youth (15-24 years)</item>
+        <item>Adult (25-64 years)</item>
+        <item>Senior (65 years and Above)</item>
+        <item></item>
+
+    </string-array>
+
+
+
+
+
+</resources>

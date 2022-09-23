@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="height">
+        <item>4feet</item>
+        <item>4feet 1inche</item>
+        <item>4feet 2inche</item>
+        <item>4feet 3inche</item>
+        <item>4feet 4inche</item>
+        <item>4feet 5inche</item>
+        <item>4feet 6inche</item>
+        <item>4feet 7inche</item>
+        <item>4feet 8inche</item>
+        <item>4feet 9inche</item>
+        <item>4feet 10inche</item>
+        <item>4feet 11inche</item>
+        <item>5feet</item>
+        <item>5feet 1inche</item>
+        <item>5feet 2inche</item>
+        <item>5feet 3inche</item>
+        <item>5feet 4inche</item>
+        <item>5feet 5inche</item>
+        <item>5feet 6inche</item>
+        <item>5feet 7inche</item>
+        <item>5feet 8inche</item>
+        <item>5feet 9inche</item>
+        <item>5feet 10inche</item>
+        <item>5feet 11inche</item>
+        <item>6feet </item>
+        <item>6feet 1inche</item>
+        <item>6feet 2inche</item>
+        <item>6feet 3inche</item>
+        <item>6feet 4inche</item>
+        <item>6feet 5inche</item>
+        <item>6feet 6inche</item>
+        <item>6feet 7inche</item>
+        <item>6feet 8inche</item>
+        <item>6feet 9inche</item>
+        <item>6feet 10inche</item>
+        <item>6feet 11inche</item>
+        <item>7feet </item>
+
+    </string-array>
+</resources>
